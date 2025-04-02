@@ -1,14 +1,3 @@
-<p align="center"><a href="https://DeveloperNasir030.github.io"><img width="80%" alt="Hello, I'm Nasir. I do open source and i love Programming!" src="./assets/gh-readme-header.png" /></a></p>
-
-
-
-
-
-
-
-
-
-
 
 # About me 
 
