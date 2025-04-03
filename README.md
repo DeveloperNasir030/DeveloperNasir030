@@ -1,7 +1,7 @@
 
 # About me 
 
-- 💼 Developer at [Cooming soon...]()
+- 💼 About me: [Cooming soon...]()
 
 - 📈 Build: Web calculator, web tetris game and much more!
 
