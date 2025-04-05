@@ -71,3 +71,18 @@
 <!-- end -->
 
 
+
+<h4 align="center">📚 Frameworks and Libraries</h4>
+
+<p align="center">
+<a href="#"><img alt="Apollo" src="https://img.shields.io/badge/Apollo-311C87.svg?logo=apollo-graphql&logoColor=white"></a>
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+<a href="#"><img alt="Dotnet" src="https://img.shields.io/badge/Dotnet-512BD4.svg?logo=dotnet&logoColor=white"></a>
+<a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
+<a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+<a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
+<a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white"></a>
+<a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
+</p>
+
