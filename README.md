@@ -29,3 +29,15 @@
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />](https://marketplace.visualstudio.com/items?itemName=i007c.00-team-theme)
 [<img src='https://www.vectorlogo.zone/logos/java/java-icon.svg' width='40' height='40' />](https://java.com/)
 [<img src='https://iili.io/HX1PWOP.png' width='40' height='40' />](https://www.unrealengine.com/)
+
+
+## 🔭 I'm currently working on This Projects:
+
+- Private Projects 🤫
+- Discord Anti Raid / Nuke System / Bot
+- Website template
+- and much more!
+
+### 🤝 Connect with me:
+
+[![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=FFFFFF&labelColor=2c2f33)](https://discord.gg/..)
