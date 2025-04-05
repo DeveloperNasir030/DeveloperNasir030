@@ -43,3 +43,31 @@
 [![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=FFFFFF&labelColor=2c2f33)](https://discord.gg/..)
 
 
+<!-- System Info -->
+### `~# ./sysinfo`
+<table border="1">
+  <tr>
+    <th>Device</th>
+    <th>Operating System</th>
+    <th>Processor</th>
+  </tr>
+  <tr>
+    <td>Device 1</td>
+    <td>NOT DETECTED</td>
+    <td>NOT DETECTED</td>
+  </tr>
+  <tr>
+    <td>Device 2</td>
+    <td>NOT DETECTED</td>
+    <td>NOT DETECTED</td>
+  </tr>
+  <tr>
+    <td>NOT DETECTED ***</td>
+    <td>NOT DETECTED</td>
+    <td>NOT DETCTED</td>
+  </tr>
+</table>
+
+<!-- end -->
+
+
