@@ -42,6 +42,13 @@
 - Private Projects 🤫
 - Discord Anti Raid / Nuke System / Bot
 - Website template
+- Open Source Projects
+- Apps
+- Web Apps
+- Discord User Lookup Tool ( User ID, User Logo etc)
+- Chat Bots
+- Telegram Bot
+- Twitch Bot
 - and much more!
 
 ### 🤝 Connect with me:
