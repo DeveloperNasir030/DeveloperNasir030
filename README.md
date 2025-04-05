@@ -15,3 +15,17 @@
 
 ## M̸̡̛o̴̤̽s̴͈̓t̷̞͛ ̶̍ͅU̴̙͝s̶͍̈́e̶͖͝d̷͚̈ ̸̰̐P̴͕̏r̶͍̅ō̸̱g̷̯̋r̷͙̾á̵̯m̶͚͘m̷̯̾i̵̫̽ń̸ͅǵ̵͕ ̷̥̃L̵͚͒a̶̠͂n̷̦͝ġ̴̭u̴͍̽a̶̤͆g̸̙̑e̵̺̓s̷͈͋
 [![DeveloperNasir030](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperNasir030&layout=compact&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91)](https://github.com/DeveloperNasir030/)
+
+
+
+ ## Technologies and Tools I use:
+
+[<img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/100.webp' width='40' height='40' />](https://python.org/)
+[<img src='https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200.webp' width='40' height='40' />](https://nodejs.org/)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' width='40' height='40' />](https://www.php.net/)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' width='40' height='40' />](https://docs.microsoft.com/en-us/dotnet/csharp/)
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png' width='40' height='40' />
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='40' height='40' />](https://git-scm.com/)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />](https://marketplace.visualstudio.com/items?itemName=i007c.00-team-theme)
+[<img src='https://www.vectorlogo.zone/logos/java/java-icon.svg' width='40' height='40' />](https://java.com/)
+[<img src='https://iili.io/HX1PWOP.png' width='40' height='40' />](https://www.unrealengine.com/)
