@@ -1,3 +1,9 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/DeveloperNasir030/count.svg" />
+</p>
+
+
 
 # A̴̪̒b̴̮͂ơ̸̬u̷̧͒t̴͙͛ ̴̥̀m̵̥͋ė̴̪ ̴̯̀
 
