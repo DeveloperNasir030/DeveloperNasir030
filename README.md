@@ -49,7 +49,13 @@
 - Chat Bots
 - Telegram Bot
 - Twitch Bot
-- 
+- Fornite / UEFN Maps
+- Roblox Maps
+- Minecraft Clients
+- UI / UX Design Projects
+- Custom Code Editor
+- Discord Bl4cklisted word lists for AutoMod
+- Custom VPN
 - and much more!
 
 ### 🤝 Connect with me:
