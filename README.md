@@ -56,6 +56,11 @@
 - Custom Code Editor
 - Discord Bl4cklisted word lists for AutoMod
 - Custom VPN
+- Temp Mail Service (Legal)
+- StreamingXSpace
+- Penthouse Discord Server
+- Landingpages
+- Logo Designing
 - and much more!
 
 ### 🤝 Connect with me:
